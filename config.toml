@@ -14,7 +14,7 @@ author = "d4rkc0nd0r"
 description = "Siddharth's personal website"
 keywords = "blog,personal"
 info = ["A nostalgic nerd"]
-avatarURL = "images/avatar.png"
+avatarURL = "images/avatar.jpg"
 dateFormat = "January 1, 1970"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
