@@ -5,24 +5,22 @@
     <link>https://d4rkc0nd0r.github.io/</link>
     <description>Recent content on Siddharth Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://d4rkc0nd0r.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://d4rkc0nd0r.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About</title>
       <link>https://d4rkc0nd0r.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://d4rkc0nd0r.github.io/about/</guid>
-      <description>CTF&amp;rsquo;s (Capture the flag) are cybersecurity competitions organized by Universities, Security companies for various reasons but I play them for fun. I like to solve reverse engineering, Pwn and occasionally hardware challenges too. I play CTF&amp;rsquo;s when idle, which is quite rare these days. As a core member of 7h3B14ckKn1gh75 and ffffx00000, I&amp;rsquo;ve organized and participated in a lot of CTF&amp;rsquo;s. I won the recent HackTheBox Cyberapocalypse CTF 2022 in Top 50 (43rd out of 7024) in the world and 4th in RSA CTF.</description>
+      <description>A nostalgic nerd</description>
     </item>
-    
     <item>
-      <title></title>
-      <link>https://d4rkc0nd0r.github.io/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://d4rkc0nd0r.github.io/posts/</guid>
-      <description>I&amp;rsquo;ll be posting about my writeups and research soon.</description>
+      <title>Welcome to my blog</title>
+      <link>https://d4rkc0nd0r.github.io/posts/intro/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://d4rkc0nd0r.github.io/posts/intro/</guid>
+      <description>Thanks for stopping by. I&amp;rsquo;ll be posting about my research soon 😊.</description>
     </item>
-    
   </channel>
 </rss>

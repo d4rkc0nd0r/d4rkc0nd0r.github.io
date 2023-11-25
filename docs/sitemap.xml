@@ -3,19 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://d4rkc0nd0r.github.io/about/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://d4rkc0nd0r.github.io/posts/</loc>
-    <priority>0</priority>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://d4rkc0nd0r.github.io/authors/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://d4rkc0nd0r.github.io/categories/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/tags/first-post/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/tags/intro/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/categories/intro/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/series/introduction/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/posts/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://d4rkc0nd0r.github.io/series/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/authors/siddharth-reddy/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://d4rkc0nd0r.github.io/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://d4rkc0nd0r.github.io/tags/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://d4rkc0nd0r.github.io/posts/intro/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url>
 </urlset>
