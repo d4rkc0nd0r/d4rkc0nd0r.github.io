@@ -1,4 +1,4 @@
-baseURL = 'https://d4rkc0nd0r.github.io'
+baseURL = 'https://d4rkc0nd0r.github.io/my-blog'
 languageCode = 'en-us'
 title = 'd4rkc0nd0r website'
 theme = 'blowfish'
